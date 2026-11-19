@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/miami-banner.png" alt="Lucardus — Miami sunset" width="100%" />
-</p>
+<p align="center"><strong>L U C A R D U S</strong></p>
 
 ### About me
 
